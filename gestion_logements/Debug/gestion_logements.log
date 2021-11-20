@@ -1,0 +1,8 @@
+﻿  Appartement.cpp
+  Logement.cpp
+  Maison.cpp
+  Quartier.cpp
+C:\Users\a\Documents\poo\gestion_logements\gestion_logements\Quartier.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a\Documents\poo\gestion_logements\gestion_logements\Quartier.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  gestion_logements.vcxproj -> C:\Users\a\Documents\poo\gestion_logements\Debug\gestion_logements.lib
